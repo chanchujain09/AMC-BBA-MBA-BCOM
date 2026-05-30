@@ -6,7 +6,7 @@ const features = [
   {
     title: "Industry-Relevant Learning",
     description: "Programs aligned with current business and industry needs",
-    image: "https://i.postimg.cc/L6sfkSGn/PMV08296.jpg"
+    image: "https://i.postimg.cc/PqJpkfCK/PMV07731.jpg"
   },
   {
     title: "Practical Learning Approach",
